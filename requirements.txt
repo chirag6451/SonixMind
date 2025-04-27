@@ -1,3 +1,7 @@
+# SonixMind Audio Processing Requirements
+# Author: Chirag Kansara - Lead Developer & CTO
+# License: Copyright (c) 2025 IndaPoint Technologies Pvt. Ltd.
+
 streamlit>=1.21.0
 numpy>=1.22.0
 scipy>=1.8.0
