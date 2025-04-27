@@ -1,0 +1,33 @@
+ffprobe started on 2025-04-26 at 23:38:02
+Report written to "ffmpeg-log.txt"
+Log level: 32
+Command line:
+ffprobe -v error -show_entries "format=duration" -of "default=noprint_wrappers=1:nokey=1" /var/folders/25/4t6_hvhj4q1gv0njjlksz0q80000gn/T/tmpgo2gjm25.MP4
+ffprobe version 7.1.1 Copyright (c) 2007-2025 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.6)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1.1_1 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/var/folders/25/4t6_hvhj4q1gv0njjlksz0q80000gn/T/tmpgo2gjm25.MP4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 1
+    compatible_brands: isommp41mp42
+    creation_time   : 2025-04-26T03:09:15.000000Z
+  Duration: 00:03:17.60, start: 0.000000, bitrate: 6758 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hvc1 / 0x31637668), yuvj420p(pc, bt709/bt709/iec61966-2-1), 886x1920, 6631 kb/s, 60.07 fps, 60 tbr, 600 tbn (default)
+      Metadata:
+        creation_time   : 2025-04-26T03:09:15.000000Z
+        handler_name    : Core Media Video
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 119 kb/s (default)
+      Metadata:
+        creation_time   : 2025-04-26T03:09:15.000000Z
+        handler_name    : Core Media Audio
+        vendor_id       : [0][0][0][0]

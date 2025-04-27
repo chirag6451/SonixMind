@@ -1,0 +1,17 @@
+streamlit==1.26.0
+numpy==1.25.2
+pillow==10.0.0
+pandas==2.1.0
+matplotlib==3.7.2
+scipy==1.11.2
+librosa==0.10.1
+soundfile==0.12.1
+ffmpeg-python==0.2.0
+pydub==0.25.1
+moviepy==1.0.3
+plotly==5.16.1
+IPython==8.14.0
+markdown==3.4.4
+matchering==0.4.0
+yt-dlp==2023.7.6
+watchdog==3.0.0

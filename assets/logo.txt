@@ -1,0 +1,10 @@
+SonixMind Logo Placeholder
+
+This is a placeholder file for the SonixMind logo.
+Replace this with an actual logo image (logo.png) before deployment.
+
+The logo should be:
+- Square or rectangular with a 2:1 aspect ratio
+- At least 500x500 pixels for a square logo
+- PNG format with transparent background
+- Use brand colors (suggested: sound wave blues/greens) 
