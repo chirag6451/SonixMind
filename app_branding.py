@@ -4,7 +4,7 @@ import base64
 
 def display_logo():
     """Display the SonixMind logo"""
-    st.image("assets/logo.png", width=200)
+    st.image("logo.png", width=300)
 
 def get_author_info():
     """Return author and company information"""
@@ -219,7 +219,7 @@ def add_footer():
     <div style="text-align: center; margin-top: 30px; padding: 10px; border-top: 1px solid #e0e0e0;">
         <p style="color: #666; font-size: 14px;">
             {app_info['name']} v{app_info['version']} | 
-            © {author_info['copyright_year']} {author_info['company']}. All rights reserved.
+            © {author_info['copyright_year']} {author_info['company']} | (C) Chirag Kansara/Ahmedabadi. All rights reserved.
         </p>
     </div>
     """

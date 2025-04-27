@@ -26,7 +26,7 @@ def create_sidebar():
         
         # Footer for the sidebar
         st.markdown("---")
-        st.markdown("© 2025 IndaPoint Technologies Pvt. Ltd.")
+        st.markdown("© 2025 IndaPoint Technologies Pvt. Ltd. | (C) Chirag Kansara/Ahmedabadi")
 
 def init_workflow_state():
     """Initialize workflow state if not already done"""

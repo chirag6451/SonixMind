@@ -2,6 +2,23 @@
 
 SonixMind is a powerful audio and video processing application that helps you extract, enhance, and master audio with professional-quality results.
 
+## AI-Powered Audio Processing
+
+SonixMind harnesses the power of cutting-edge AI models to transform complex audio engineering tasks into a simple, three-step process:
+
+1. **Upload** - Simply upload your audio or video file
+2. **Visualize** - See detailed waveforms and insights about your audio
+3. **Process & Export** - Apply AI-powered enhancements and export high-quality audio
+
+Behind the scenes, sophisticated neural networks analyze your audio to identify the optimal processing parameters. The system uses machine learning models trained on thousands of professional audio samples to:
+
+- Extract clean audio from video files with intelligent noise suppression
+- Apply adaptive equalization based on content type (voice, music, etc.)
+- Match the spectral and dynamic characteristics of professional reference tracks
+- Enhance clarity and reduce background noise through neural processing
+
+All of this advanced technology works automatically, without requiring deep technical knowledge or expensive studio equipment.
+
 ## Features
 
 - **Audio Extraction**: Extract high-quality audio from video files (MP4, MOV)
@@ -9,6 +26,14 @@ SonixMind is a powerful audio and video processing application that helps you ex
 - **Professional Mastering**: Match your audio to professional reference tracks
 - **Visualization**: View detailed waveforms, spectrograms, and audio statistics
 - **YouTube Reference**: Download audio from YouTube to use as reference tracks
+
+## Creator's Story
+
+I am a big fan of Kishore Kumar, the famous Indian film singer. I also love singing very much. I often sing on different platforms.
+
+While uploading my songs and music videos on sites like YouTube, I had to do a lot of post-processing using different tools. Going to a recording studio was very costly. Even the AI tool websites I used for song mastering were also very expensive.
+
+One fine weekend, I decided to create something to meet my own needs. To my surprise, it also became useful for other singers. This is how SonixMind was born — from my love for singing and the need for affordable, high-quality audio processing tools that anyone can use.
 
 ## Requirements
 

@@ -16,7 +16,7 @@ def main():
     apply_custom_css()
     
     # Display logo if exists
-    if os.path.exists(os.path.join("assets", "logo.png")):
+    if os.path.exists("logo.png"):
         display_logo()
     
     # Always use workflow interface
