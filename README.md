@@ -139,7 +139,7 @@ Contributions are welcome! Please see the CONTRIBUTING.md file for guidelines.
 
 ## Authors
 
-- **Chirag Kansara** - CTO & Lead Developer - [@indapoint](https://www.linkedin.com/in/indapoint/)
+- **Chirag Kansara** - CTO - [@indapoint](https://www.linkedin.com/in/indapoint/)
 - Contact: chirag@indapoint.com
 
 ## Company

@@ -10,7 +10,7 @@ def get_author_info():
     """Return author and company information"""
     return {
         "author": "Chirag Kansara",
-        "role": "Lead Developer",
+        "role": "CTO",
         "linkedin": "https://www.linkedin.com/in/indapoint/",
         "email": "chirag@indapoint.com",
         "company": "IndaPoint Technologies Pvt. Ltd.",
